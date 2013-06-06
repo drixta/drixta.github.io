@@ -186,7 +186,7 @@ p {
   font-weight: 300; }
 
 a {
-  color: #686868;
+  color: #3498db;
   text-decoration: none;
   -webkit-transition: 0.25s;
   -moz-transition: 0.25s;
@@ -219,7 +219,7 @@ h2 {
   margin-bottom: 2px; }
 
 h3 {
-  color: #989898;
+  color: #181818;
   font-size: 24px;
   font-weight: 500;
   font-family: "Quicksand";
@@ -1878,11 +1878,11 @@ input.todo-search-field {
   .todo-search {
     background-image: "../images/todo/search-2x.png"; } }
 footer {
-  color: #bdc1c5;
+  color: #808080;
   font-size: 15px;
   }
   footer a {
-    color: #3498DB;
+    color: #808080;
     font-weight: 700; }
   footer p {
     font-size: 15px;
@@ -2612,7 +2612,7 @@ li {
   font-weight: 300; }
 
 hr { display: block; height: 1px;
-    border: 0; border-top: 1px solid #ff5544;
+    border: 0; border-top: 1px solid #161616;
     margin: 1em 0; padding: 0; }
 
 .border-top {
