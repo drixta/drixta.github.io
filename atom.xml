@@ -4,7 +4,7 @@
   <title><![CDATA[Drixta]]></title>
   <link href="http://drixta.github.io/atom.xml" rel="self"/>
   <link href="http://drixta.github.io/"/>
-  <updated>2013-06-01T10:09:30-07:00</updated>
+  <updated>2013-06-06T12:14:38-07:00</updated>
   <id>http://drixta.github.io/</id>
   <author>
     <name><![CDATA[Quan Pham]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Octopus makes great sushi]]></title>
+    <link href="http://drixta.github.io/blog/2013/06/05/octopus-makes-great-sushi/"/>
+    <updated>2013-06-05T13:17:00-07:00</updated>
+    <id>http://drixta.github.io/blog/2013/06/05/octopus-makes-great-sushi</id>
+    <content type="html"><![CDATA[<p>I noticed an incresing number of my friends began using Jekyll as their CMS these past months. Not knowing what it was, I looked it into it</p>
+]]></content>
+  </entry>
   
 </feed>
