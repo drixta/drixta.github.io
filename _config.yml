@@ -23,6 +23,8 @@ email: drixta@gmail.com
 navigation:
 - text: Blog
   url: /
+- text: Archives
+  url: /archive/
 - text: About
   url: /about/
 - text: Projects
