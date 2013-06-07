@@ -2,4 +2,4 @@
 
 I uses [Octopress](http://octopress.org/) and Alex Garibay's [octoflat](http://alexgaribay.com/blog/2013/04/28/octoflat-theme/) theme.
 
-Thank you very much for paying a visit at my site and leave me a message at drixta@gmail.com to say hi!
+Thank you very much for paying a visit at my site and feel free to leave me a message at drixta@gmail.com to say hi!
