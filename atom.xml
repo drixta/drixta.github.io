@@ -4,7 +4,7 @@
   <title><![CDATA[Drixta]]></title>
   <link href="http://drixta.github.io/atom.xml" rel="self"/>
   <link href="http://drixta.github.io/"/>
-  <updated>2013-06-06T12:14:38-07:00</updated>
+  <updated>2013-06-06T21:16:26-07:00</updated>
   <id>http://drixta.github.io/</id>
   <author>
     <name><![CDATA[Quan Pham]]></name>
@@ -15,10 +15,36 @@
   
   <entry>
     <title type="html"><![CDATA[Octopus makes great sushi]]></title>
-    <link href="http://drixta.github.io/blog/2013/06/05/octopus-makes-great-sushi/"/>
-    <updated>2013-06-05T13:17:00-07:00</updated>
-    <id>http://drixta.github.io/blog/2013/06/05/octopus-makes-great-sushi</id>
-    <content type="html"><![CDATA[<p>I noticed an incresing number of my friends began using Jekyll as their CMS these past months. Not knowing what it was, I looked it into it</p>
+    <link href="http://drixta.github.io/blog/2013/05/31/octopus-makes-great-sushi/"/>
+    <updated>2013-05-31T13:17:00-07:00</updated>
+    <id>http://drixta.github.io/blog/2013/05/31/octopus-makes-great-sushi</id>
+    <content type="html"><![CDATA[<h2>Beginning</h2>
+
+<p>I noticed an incresing number of my friends picked up Jekyll as their CMS of choice these past months so I wanted have a stab at it. I came across <a href="http://octopress.org/">Octopress</a>, a framework for Jekyll that help speed up the blog creation process by providing users with a HTML templates, CSS and Javascript which Jekyll doesn&rsquo;t have. The documentation is user-friendly and concise, provided me enough information to have everything up and running in under 2 hours. Octopress also allows users to import themes similar to Wordpress and I use a slight modification of Alex Garibay&rsquo;s personal theme called <a href="http://alexgaribay.com/blog/2013/04/28/octoflat-theme/">Octoflat</a> which utilizes flat-ui colors and design.</p>
+
+<h2>Impression</h2>
+
+<p>Having some previous experience with Wordpress, Octopress provides interesting pros and cons for newbies like myself.</p>
+
+<h3>Pros</h3>
+
+<ul>
+<li>I personally prefer making edits using command-line and text editor rather than GUI environment that of Wordpress; blogging with Octopress allows me to use the set up I&rsquo;m most comfortable with.</li>
+<li>Octopress is much less crytic than Wordpress, making it easier to do layout edits and changing color schemes.</li>
+</ul>
+
+
+<h3>Cons</h3>
+
+<ul>
+<li>Octopress don&rsquo;t directly edit the files that produce the webpage but rather the source code which generates the public files on your website. You can try to edit the code on Github or download the repository onto your computer then edit from there which isn&rsquo;t convient, whereas Wordpress allows you to blog from anywhere.</li>
+<li>Jekyll is meant for people who are familiar with command-line and text editor so it&rsquo;s not intuitive for complete beginners. However, Octopress provides great <a href="http://octopress.org/docs/">documentations</a> that even your grandma can understand and it&rsquo;s fun to mess around with.</li>
+</ul>
+
+
+<h2>Overall</h2>
+
+<p>I had a good impression with Octopress so far and definitely recommend as an alternative to Wordpress if you want to get your hands dirty.</p>
 ]]></content>
   </entry>
   

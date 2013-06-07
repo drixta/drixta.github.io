@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://drixta.github.io/blog/2013/06/05/octopus-makes-great-sushi/</loc>
-        <lastmod>2013-06-06T10:48:28-07:00</lastmod>
+        <loc>http://drixta.github.io/blog/2013/05/31/octopus-makes-great-sushi/</loc>
+        <lastmod>2013-06-06T21:16:25-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://drixta.github.io/archive/</loc>
+        <lastmod>2013-06-06T14:32:12-07:00</lastmod>
     </url>
     <url>
         <loc>http://drixta.github.io/</loc>
-        <lastmod>2013-06-06T10:48:28-07:00</lastmod>
+        <lastmod>2013-06-06T21:16:25-07:00</lastmod>
     </url>
     <url>
         <loc>http://drixta.github.io/projects/</loc>
         <lastmod>2013-06-01T01:53:50-07:00</lastmod>
-    </url>
-    <url>
-        <loc>http://drixta.github.io/blog/archives/</loc>
-        <lastmod>2013-06-06T10:48:28-07:00</lastmod>
     </url>
     <url>
         <loc>http://drixta.github.io/robots.txt</loc>
