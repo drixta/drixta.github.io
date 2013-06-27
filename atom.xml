@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Drixta]]></title>
+  <title><![CDATA[Quan Pham]]></title>
   <link href="http://drixta.github.io/atom.xml" rel="self"/>
   <link href="http://drixta.github.io/"/>
-  <updated>2013-06-19T20:37:20-07:00</updated>
+  <updated>2013-06-20T14:14:35-07:00</updated>
   <id>http://drixta.github.io/</id>
   <author>
     <name><![CDATA[Quan Pham]]></name>
